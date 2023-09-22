@@ -17,7 +17,7 @@ The program is a console version and calculates the volume of an aquarium and sh
 ## Demands 
 
 <ul>
-  <li> Master: Create the solution and code is on program.cs. [✔️]</li> 
+  <li> Master: Create a aquarium calculator by user input. [✔️]</li> 
 </ul>
 
 ## Instructions
