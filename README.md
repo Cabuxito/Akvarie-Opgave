@@ -1,4 +1,4 @@
-# Beregn rumfang af akvarie
+# Aquarium volume calculator.
 
 ## Table of content
 
