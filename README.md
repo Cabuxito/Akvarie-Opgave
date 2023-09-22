@@ -1,9 +1,5 @@
 # Beregn rumfang af akvarie
 
-
-
-# Regnvejrstatistik Opgave
-
 ## Table of content
 
 * [Intro](#Intro)
@@ -38,7 +34,7 @@ The program is a console version and calculates the volume of an aquarium and sh
 
 ## Changelog
 
-[Github]https://github.com/Cabuxito/Akvarie-Opgave/branches - Here is my branches and what it happens in every update.
+[Github](https://github.com/Cabuxito/Akvarie-Opgave/branches) - Here is my branches and what it happens in every update.
 
 **Master**
 
